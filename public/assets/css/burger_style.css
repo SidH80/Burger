@@ -3,7 +3,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   color: beige;
-  font-family: 'Roboto', sans-serif;
+  /* font-family: 'Roboto', sans-serif; */
   text-align: center;
   background-position: center;
   height: 100vh;
@@ -44,14 +44,6 @@ img {
   border-radius: 65%;
   height: 250px;
   width: 350px;
-}
-
-.burgers-to-try {
-
-}
-
-.burgers-devoured{
-
 }
 
 .add-burger {
