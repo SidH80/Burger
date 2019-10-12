@@ -1,14 +1,16 @@
 body {
-  background-image: url("/assets/img/south-bank-honest-burgers-restaurant-3 (1).jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.699), rgba(0, 0, 0, 0.699)), url("/assets/img/south-bank-honest-burgers-restaurant-3 (1).jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  color: white;
-  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+  color: beige;
+  font-family: 'Roboto', sans-serif;
   text-align: center;
+  background-position: center;
+  height: 100vh;
 }
 
 .container {
-  color: white;
+  color: beige;
 }
 
 li {
@@ -16,6 +18,7 @@ li {
   margin: 5px;
   background: black;
   border-radius: 15px;
+  border: 1px solid #ffd5
 }
 
 .label {
@@ -25,7 +28,7 @@ li {
 .create-update-form {
   padding: 5px;
   margin: 5px;
-  background: aqua;
+  background: beige;
 }
 
 .form-group {
