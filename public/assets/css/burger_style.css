@@ -1,19 +1,46 @@
+body {
+  /* background-image: url("/assets/img/burger_restaurant.jpg"); */
+}
+
 li {
-    padding: 5px;
-    margin: 5px;
-    background: #faebd7;
-  }
+  padding: 5px;
+  margin: 5px;
+  background: #faebd7;
+}
 
-  .label {
-    font-weight: bold;
-  }
+.label {
+  font-weight: bold;
+}
 
-  .create-update-form {
-    padding: 5px;
-    margin: 5px;
-    background: aqua;
-  }
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
 
-  .form-group {
-    margin-bottom: 5px;
-  }
+.form-group {
+  margin-bottom: 5px;
+}
+
+
+.hero-burger {
+  text-align: center;
+}
+
+img {
+  border-radius: 65%;
+  height: 250px;
+  width: 350px;
+}
+
+.burgers-to-try {
+
+}
+
+.burgers-devoured{
+
+}
+
+.add-burger {
+  text-align: center;
+}
